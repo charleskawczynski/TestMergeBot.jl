@@ -1,0 +1,4 @@
+name = "TestMergeBot"
+uuid = "2e39dae3-556f-405d-af66-23d94132ae5d"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
